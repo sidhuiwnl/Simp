@@ -4,7 +4,7 @@
 </script>
 
 <div class="fixed bottom-0 left-1/2 transform -translate-x-1/2 w-full max-w-4xl px-6  ">
-	<div class="w-full p-1 pb-0 border rounded-t-2xl bg-neutral-800">
+	<div class="w-full p-1 pb-0 border  rounded-t-2xl dark:bg-neutral-900">
 	<div class="bg-neutral-900/90 backdrop-blur-lg rounded-t-xl py-6 px-3 shadow-[0_8px_30px_rgba(0,0,0,0.15)] border border-gray-800/50 flex items-center">
 		<input
 			type="text"
